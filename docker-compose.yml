@@ -1,0 +1,5 @@
+version: '3'
+
+networks:
+  common-network:
+    driver: bridge
